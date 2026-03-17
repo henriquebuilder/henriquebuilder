@@ -1,4 +1,4 @@
-# Hi, I'm Henrique 👋
+# Henrique Martins 👋
 
 Web3 & Product Builder
 
@@ -6,50 +6,37 @@ Founder of Pozzer — DePIN protocol built on Solana.
 
 ---
 
-## 🚀 Projects
+## 🚀 Building
+
+• Blockchain infrastructure (Pozzer)  
+• Fintech systems (BKG Bank)  
+• SaaS & automation platforms  
+• AI-assisted applications  
+
+---
+
+## 🧩 Projects
 
 ### Pozzer Blockchain
-Blockchain infrastructure focused on decentralized physical networks (DePIN), payments and Web3 applications.
+DePIN protocol and decentralized infrastructure network.
 
-### BKG Bank
-Fintech platform designed for digital payments and financial systems.
+### Fintech Dashboard
+Digital banking and payment system.
 
 ### Genfit Tech
-Fitness and technology platform combining health and digital services.
+Fitness and technology platform.
 
 ### Women Safety App
-Mobile application focused on emergency alerts and real-time safety systems.
+Real-time safety and emergency application.
 
 ---
 
-## 🧠 What I'm building
+## ⚙️ Tech
 
-• Blockchain infrastructure (DePIN)  
-• Fintech platforms  
-• AI-assisted applications  
-• SaaS products (logistics & transport)
+Web3 • Blockchain • Python • JavaScript • Smart Contracts • AI  
 
 ---
 
-## ⚙️ Tech Stack
+## 🌎 Vision
 
-• Web3  
-• Blockchain  
-• Python  
-• JavaScript  
-• Smart Contracts  
-• AI-assisted development  
-
----
-
-## 🌎 About me
-
-Building real-world products and scalable systems.
-
-Focused on Web3, automation and digital infrastructure.
-
----
-
-## 📫 Contact
-
-• Email: henriquesilva@outlook.com.br  
+Building scalable systems and real-world digital infrastructure.
