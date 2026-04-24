@@ -1,47 +1,65 @@
 # Henrique Silva 👋
 
-Web3 Builder | DePIN | Fintech | AI Systems
+Full Stack Engineer focused on building scalable systems in fintech, Web3 and real-time applications.
 
-Founder of Pozzer — DePIN infrastructure protocol on Solana, building decentralized compute and real-world networks.
-
----
-
-## 🚀 Building
-
-- DePIN infrastructure (Pozzer)
-- Fintech & payment systems
-- Scalable SaaS platforms
-- AI-driven product development
+Founder of Pozzer — a DePIN infrastructure protocol for decentralized networks.
 
 ---
 
-## 🧩 Projects
+## 🚀 What I Build
 
-### Pozzer Blockchain
-DePIN protocol for decentralized infrastructure and compute networks.
-
-### Fintech Dashboard
-Digital banking system with payment infrastructure and analytics.
-
-### Genfit Tech
-Fitness platform focused on performance and user tracking.
-
-### Women Safety App
-Real-time emergency system with location tracking and alerts.
+- Real-time systems (SSE, event-driven architectures)
+- Fintech infrastructure (payments, crypto, APIs)
+- Web3 platforms (wallet auth, smart contracts, multi-chain)
+- Scalable SaaS systems with complex business logic
+- AI-driven automation (n8n + LLMs)
 
 ---
 
-## ⚙️ Tech
+## 🧩 Featured Projects
 
-Web3 • Blockchain • Python • JavaScript • Smart Contracts • AI  
+### 🔵 Pozzer — DePIN Protocol
+Decentralized infrastructure platform with wallet-based authentication, gamification and real-time network monitoring.
+
+🔗 https://www.pozzer.io/explorer  
+🔗 https://github.com/pozzer-labs/pozzer-blockchain
+
+---
+
+### 🟢 CryptoPay — Fintech Payment System
+Crypto wallet + payment gateway with PIX integration and service marketplace.
+
+🔗 https://github.com/henriquebuilder/Fintech-Cryptopay
+
+---
+
+### 🔴 Logistics SaaS (Private System)
+End-to-end logistics platform with routing, real-time tracking (SSE), audit system and workflow automation.
+
+> Includes:
+- State-machine architecture
+- Real-time updates (97% reduction in polling)
+- Automation with n8n + AI (Groq)
+
+🔗 https://github.com/henriquebuilder/toindo-express-platform-case-study
+---
+
+## ⚙️ Tech Focus
+
+- TypeScript / React
+- Cloudflare Workers (Edge)
+- Real-time systems (SSE)
+- Web3 (Ethers.js, Solidity)
+- APIs & system architecture
 
 ---
 
 ## 🌎 Vision
 
-Building scalable systems and real-world digital infrastructure.
+Building scalable digital infrastructure that connects real-world systems with decentralized technologies.
+
+---
+
 ## 📫 Contact
 
-Open to remote opportunities and Web3 collaborations.
-
-LinkedIn: https://br.linkedin.com/in/luis-henrique-da-silva-cunha-89bba8124
+- LinkedIn: https://br.linkedin.com/in/luis-henrique-da-silva-cunha-89bba8124
