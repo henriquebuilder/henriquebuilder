@@ -21,10 +21,10 @@ Distributed fintech infrastructure focused on financial correctness under failur
 End-to-end logistics SaaS replacing polling with SSE — 97% reduction in backend requests across active drivers. State machine controls the full order lifecycle with strict transition validation. 3-stage photo pipeline (pickup, delivery, proof-of-delivery) with automated state transitions. Event sourcing for full audit trail. In production managing real operations.
 
 **[Pozzer DePIN Protocol](https://github.com/pozzer-labs/pozzer-blockchain)**
-Web3 infrastructure protocol with EVM signature-based wallet auth (nonce flow — no passwords, no email), multi-chain support (Ethereum, Polygon, BSC), mission-based gamification, and Solidity smart contracts for on-chain reward distribution. 3,000 testnet users. Live at [pozzer.io/explorer](https://pozzer.io/explorer).
+Web3 infrastructure protocol with EVM signature-based wallet auth (nonce flow — no passwords, no email), multi-chain support (Ethereum, Polygon, BSC), mission-based gamification, and Solidity smart contracts for on-chain reward distribution. 1,000 testnet users. Live at [pozzer.io/explorer](https://pozzer.io/explorer).
 
 **[CryptoPay — Fintech](https://github.com/henriquebuilder/Fintech-Cryptopay)**
-Hybrid crypto/fiat platform with multi-asset wallet (BTC, ETH, USDT, BNB), crypto-to-PIX conversion with real-time exchange rate feeds and async settlement orchestration, and a service marketplace. 600 active users over 4 years.
+Hybrid crypto/fiat platform with multi-asset wallet (BTC, ETH, USDT, BNB), crypto-to-PIX conversion with real-time exchange rate feeds and async settlement orchestration, and a service marketplace. 2000 active users over 4 years.
 
 ---
 
