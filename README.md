@@ -48,13 +48,12 @@ Infra        Docker · Kafka · Redis · Debezium CDC · OpenTelemetry
 
 I use AI as an accelerator — Cursor, Claude, Copilot — and take full ownership of the architecture, security decisions, and tradeoffs behind everything I ship. I go after the bugs, study the failure modes, and understand the system well enough to evolve it when things break in production.
 
----
+Currently
 
-## Currently
-
-- Implementing distributed ledger services in Java 21 + Spring Boot
-- Expanding GuardianAlert toward municipal partnerships and NGO pilots
-- Studying distributed systems: consensus, replication, partition tolerance
+Implementing distributed ledger services in Java 21 + Spring Boot
+Developing advanced AI-powered recruitment tools using multi-agent workflows (LangGraph)
+Expanding GuardianAlert toward municipal partnerships and NGO pilots
+Studying distributed systems: consensus, replication, partition tolerance
 
 ---
 
