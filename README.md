@@ -48,7 +48,7 @@ Infra        Docker · Kafka · Redis · Debezium CDC · OpenTelemetry
 
 ---
 I use AI as an accelerator — Cursor, Claude, Copilot — and take full ownership of the architecture, security decisions, and tradeoffs behind everything I ship. I go after the bugs, study the failure modes, and understand the system well enough to evolve it when things break in production.
----
+
 
 ## Currently
 
