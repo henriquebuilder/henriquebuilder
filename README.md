@@ -31,14 +31,14 @@ Hybrid crypto/fiat platform with multi-asset wallet (BTC, ETH, USDT, BNB), crypt
 ## Stack
 
 ```
-Languages    TypeScript · JavaScript · Java · Solidity
+Languages    TypeScript · JavaScript · Python · Java · Solidity
 Frontend     React · Tailwind CSS · PWA
-Backend      Cloudflare Workers · Hono · Spring Boot · Node.js
-Database     Cloudflare D1 · PostgreSQL
+Backend      Cloudflare Workers · Hono · FastAPI · Spring Boot · Node.js
+Database     Cloudflare D1 · Cloudflare R2 · PostgreSQL
 Real-Time    SSE · event-driven · Kafka
-AI           LLM integration · n8n · Groq
-Web3         Ethers.js · EVM wallet auth · multi-chain · Solidity
-Security     JWT (httpOnly) · CSRF · bcrypt · TOTP/MFA · rate limiting
+AI           LLMs · LangGraph · CrewAI · LangChain · RAG · n8n · Groq
+Web3         Ethers.js · Web3Modal · EVM wallet auth · multi-chain · Solidity
+Security     JWT (httpOnly) · CSRF protection · bcrypt · TOTP/MFA · rate limiting · honeypots
 Infra        Docker · Kafka · Redis · Debezium CDC · OpenTelemetry
 ```
 
