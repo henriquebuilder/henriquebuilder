@@ -1,4 +1,4 @@
-# Luis Henrique — Senior Full Stack Engineer | Real-Time Systems · Edge Computing · AI Automation
+# Luis Henrique — Full Stack Engineer | Real-Time Systems · Edge Computing · AI Automation
 
 Software engineer based in Brazil, building production systems across fintech, public safety, logistics, and Web3. I identify problems before writing code and stay in the system until it works correctly under failure — not just the happy path.
 
