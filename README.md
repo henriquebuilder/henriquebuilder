@@ -14,7 +14,7 @@ Women's safety PWA — one-tap panic button that captures GPS, records 30s of au
 **[HR Screening AI](https://github.com/henriquebuilder/hr-screening-ai)**
 AI hiring platform that conducts structured 8-question interviews via LLM, extracts candidate signals, and generates dual feedback — one report for the recruiter, one for the candidate. Built after noticing most applicants never hear back. 200 candidates processed in testing.
 
-**[Bank Risk Platform](https://github.com/henriquebuilder/bank-risk-platform)**
+**[Bank Risk Platform](https://github.com/henriquebuilder/bank-risk-platform-v2)**
 Distributed fintech infrastructure focused on financial correctness under failure conditions. Double-entry bookkeeping, transactional outbox with Debezium CDC (PostgreSQL WAL → Kafka), pessimistic locking with `SELECT FOR UPDATE`, idempotent processing, Saga orchestration, and automated reconciliation pipelines. Java 21 + Spring Boot.
 
 **[Logistics Real-Time Platform](https://github.com/henriquebuilder/toindo-express-platform-case-study)**
